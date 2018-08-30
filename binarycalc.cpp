@@ -35,7 +35,7 @@ switch(choice) {
 		cout <<" "<<a<< " x "<<b<< " = " << a*b;
 		break;
 	case 4:
-		cout << "Enter 2 values\n";
+		cout << "Enter 2 values \n";
 		cin  >> a>> b;
 		cout <<" "<<a<< " /  "<<b<< " = " << a/b;
 		cout << "\n Remainder = " << (int) a% (int)b;
