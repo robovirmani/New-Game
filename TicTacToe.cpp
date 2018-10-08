@@ -66,7 +66,7 @@ int main()
 
 		cout<<"==>\aPlayer "<<--player<<" win ";
 	else
-		cout<<"\aGame draw";
+		cout<<"\aGame result: draw";
 
 	cin.ignore();
 	cin.get();
